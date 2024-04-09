@@ -2,3 +2,4 @@ run
 walk
 gym
 die
+hi
